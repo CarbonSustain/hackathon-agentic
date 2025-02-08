@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+tensorflow
+numpy
+pandas
+scipy
+scikit-learn
+Django
+djangorestframework
+gunicorn
