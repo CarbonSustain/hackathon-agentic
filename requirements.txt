@@ -9,3 +9,4 @@ scikit-learn
 Django
 djangorestframework
 gunicorn
+web3
